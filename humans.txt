@@ -7,8 +7,7 @@
 	fely  cm     ikea
 # THANKS
 
-    <name>
-    Fely sabaldana
+   thanks to all the learnings
 # TECHNOLOGY COLOPHON
     docker
     HTML5, CSS3
