@@ -1,3 +1,5 @@
 This is a sample content.
 
 to change for merging changes
+
+automerge training
