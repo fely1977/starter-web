@@ -1,3 +1,5 @@
 Adding new file in 
 
 This file not yet track by Git
+
+Adding stash new branch
