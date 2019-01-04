@@ -8,8 +8,8 @@
 # THANKS
 
     <name>
-
+    Fely sabaldana
 # TECHNOLOGY COLOPHON
-
+    docker
     HTML5, CSS3
     jQuery, Modernizr
