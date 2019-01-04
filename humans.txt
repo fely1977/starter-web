@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 This is to add line to create conflict in rebase
+Doing some changes in local
 
 # TEAM
 
