@@ -3,6 +3,7 @@
 
 This is to add line to create conflict in rebase
 Doing some changes in local
+Adding some important notes on Git stash
 
 # TEAM
 
